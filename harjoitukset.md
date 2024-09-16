@@ -2,6 +2,7 @@
 
 ### Tehtävä 1
 select * from goal
+
 <img width="784" alt="yhteentauluun1" src="https://github.com/user-attachments/assets/fcdb5c32-0430-45a3-ab91-6ca4326fb4a1">
 
 
