@@ -20,4 +20,10 @@ select name, type from airport where iso_country = "FI" order by type, name;
 
 
 ### Tehtävä 5
+select name from country where name like "F%";
+<img width="492" alt="Näyttökuva 2024-09-16 kello 13 46 18" src="https://github.com/user-attachments/assets/87a61396-3865-4e3c-947e-d33279205cdf">
+
+### Tehtävä 6
+select name from country where name 
+<img width="500" alt="Näyttökuva 2024-09-16 kello 13 48 15" src="https://github.com/user-attachments/assets/c267ed40-bb1e-4b9f-b481-ddc77e4cab2f">like "%F%";
 
