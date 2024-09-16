@@ -25,7 +25,23 @@ select name from country where name like "F%";
 <img width="492" alt="Näyttökuva 2024-09-16 kello 13 46 18" src="https://github.com/user-attachments/assets/87a61396-3865-4e3c-947e-d33279205cdf">
 
 ### Tehtävä 6
-select name from country where name 
+select name from country where name %F%";
 
-<img width="500" alt="Näyttökuva 2024-09-16 kello 13 48 15" src="https://github.com/user-attachments/assets/c267ed40-bb1e-4b9f-b481-ddc77e4cab2f">like "%F%";
+<img width="500" alt="Näyttökuva 2024-09-16 kello 13 48 15" src="https://github.com/user-attachments/assets/c267ed40-bb1e-4b9f-b481-ddc77e4cab2f">
+
+### Tehtävä 7
+select location from game where screen_name = "Vesa";
+
+<img width="542" alt="Näyttökuva 2024-09-16 kello 13 53 05" src="https://github.com/user-attachments/assets/8bee5627-71dc-40e8-bde6-5fc800a96339">
+
+### Tehtävä 8
+select co2_consumed from game where screen_name = "Ilkka";
+
+<img width="578" alt="Näyttökuva 2024-09-16 kello 13 54 05" src="https://github.com/user-attachments/assets/76281aea-ab7b-457b-846f-75817bb463e5">
+
+### Tehtävä 9
+select distinct co2_budget from game;
+
+<img width="427" alt="Näyttökuva 2024-09-16 kello 13 54 53" src="https://github.com/user-attachments/assets/b4021740-5fd4-47c9-98d4-130f414ee139">
+
 
